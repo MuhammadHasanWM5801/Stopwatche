@@ -1,0 +1,36 @@
+body{
+        background-image: url("https://66.media.tumblr.com/108637aa4ceaa5cbc7d2c6658f299de2/tumblr_nt3u2eKdcW1rnwgypo1_r1_1280.gifv");
+    text-align: center;
+    padding: 100px;
+   
+    
+}
+h1{
+    color: black;
+    display: inline-block;
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;    
+    font-style: oblique;
+    
+
+}
+
+button{
+    background-color: orange;
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    
+    
+}
+
+button:hover{
+    
+    background-color: blue;
+    border-radius: 1000px ;
+}
+button:focus{
+    background-color: red;
+    border-radius: 50px;
+}
